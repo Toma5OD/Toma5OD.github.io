@@ -1,6 +1,8 @@
 
 # Website Building with Bulma: An Educational Repository
 
+![Website Image](/public/picture.png)
+
 ## Introduction
 This educational repository is a step-by-step guide to mastering web development basics using HTML, CSS, and the Bulma UI framework. It's an ideal starting point for those new to building framework websites and a refresher for those polishing their skills.
 
